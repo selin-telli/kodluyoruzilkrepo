@@ -1,6 +1,4 @@
-alert("Hello World!")
-console.log("Hello!");
-
+alert("Hello, Welcome to My World!")
 
 
 
